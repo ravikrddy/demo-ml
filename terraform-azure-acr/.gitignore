@@ -1,0 +1,13 @@
+# Compiled files
+*.tfstate
+*.tfstate.backup
+.terraform
+*.DS_Store
+.csr
+.testing
+# Chef Ignore Files
+.chef/
+# Key Files
+*.pem
+.vscode/*
+.idea/*
